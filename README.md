@@ -39,3 +39,4 @@ The program consists of a class named `ElectricityBill` with the following funct
 ## Example
 
 For example, if a customer consumes 320 units, the program would calculate the bill as follows:
+100 * 1.20 + 200 * 2.00 + 20 * 3.00 = Rs. 580

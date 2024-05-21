@@ -1,11 +1,9 @@
-package Day4_Assignment2;
-
 /**
 Create a class Electricity bill with data members as customer number, customer name, units consumed and methods as follows:
 
 1. 	readData() - to read the values of data members.
 2.	showData - to display the customer details
-3.	computeBill() - to calculate and return electricity charges to be paid.calculate 			the bill as specified below
+3.	computeBill() - to calculate and return electricity charges to be paid.calculate the bill as specified below
 
      number of units		 	charges
 		< = 100					Rs.1.20
